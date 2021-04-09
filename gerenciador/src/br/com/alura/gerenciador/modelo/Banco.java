@@ -24,8 +24,8 @@ public class Banco {
 		u1.setLogin("nico");
 		u1.setSenha("12345");
 		Usuario u2 = new Usuario();
-		u2.setLogin("ana");
-		u2.setSenha("12345");
+		u2.setLogin("darlan");
+		u2.setSenha("123");
 		
 		listaUsuarios.add(u1);
 		listaUsuarios.add(u2);
