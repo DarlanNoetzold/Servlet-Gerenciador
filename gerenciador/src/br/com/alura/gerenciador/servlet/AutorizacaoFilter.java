@@ -41,6 +41,7 @@ public class AutorizacaoFilter implements Filter {
 			return;
 		}
 		
+		//executa
 		chain.doFilter(request, response);
 	}
 
