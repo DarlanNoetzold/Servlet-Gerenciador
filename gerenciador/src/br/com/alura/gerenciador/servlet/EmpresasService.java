@@ -16,7 +16,7 @@ import br.com.alura.gerenciador.modelo.Banco;
 import br.com.alura.gerenciador.modelo.Empresa;
 
 
-//web service
+//web service depende de uma API externa mandando o formato dos dados
 @WebServlet("/empresas")
 public class EmpresasService extends HttpServlet {
 	private static final long serialVersionUID = 1L;
