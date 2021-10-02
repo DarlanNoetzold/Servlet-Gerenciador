@@ -8,3 +8,7 @@
 
 
 <p align="center"> <img src="https://github.com/DarlanNoetzold/Servlet-Gerenciador/blob/main/gerenciador01.jpg" />
+
+  ---
+  
+  ⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
